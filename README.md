@@ -47,6 +47,13 @@ Ensure you have the following installed:
    ```r
    shiny::runApp("app.R")
    ```
+## Examples
+![image](https://github.com/user-attachments/assets/28c4184b-e60b-43ea-9614-044c520212c3)
+![image](https://github.com/user-attachments/assets/291f2f93-b92f-4665-9b7f-ce95b6b59a06)
+![image](https://github.com/user-attachments/assets/7deb655f-7fa6-4766-8a6c-ff2cc93fa50f)
+![image](https://github.com/user-attachments/assets/5493f463-54ff-41a4-9c4d-ed1a3e8ccde5)
+![image](https://github.com/user-attachments/assets/52a52be6-7668-4101-ac4a-5e0e5e358abb)
+
 
 ## File Structure
 ```
