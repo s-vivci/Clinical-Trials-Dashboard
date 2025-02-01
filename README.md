@@ -4,7 +4,7 @@
 This R Shiny application visualizes clinical trial data from ClinicalTrials.gov for studies conducted in a user-inputted Country. The app loads trial data via a Python script that fetches completed clinical trials from the API, stores the data in a CSV file, and then processes it in R for interactive exploration.
 
 ## Features
-- **Filter Clinical Trials**: Select trial Sponsor
+- **Filter Clinical Trials**: Select trial Sponsor, or view stats/viz for the Country as a whole
 - **Summary Table**: View detailed trial data with sorting and search functionality.
 - **Most Common Conditions**: A bar chart displaying the top 5 most frequently observed conditions.
 - **Trial Phases Distribution**: A bar chart displaying the number of trials per phase.
