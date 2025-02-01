@@ -48,10 +48,15 @@ Ensure you have the following installed:
    shiny::runApp("app.R")
    ```
 ## Examples
-![image](https://github.com/user-attachments/assets/28c4184b-e60b-43ea-9614-044c520212c3)
-![image](https://github.com/user-attachments/assets/291f2f93-b92f-4665-9b7f-ce95b6b59a06)
+### Running the app and entering input
+![image](https://github.com/user-attachments/assets/70e5d3c5-cc2a-416a-abc7-689af1e47a0b)
+### Overview of drop-down Sponsor filter feature
+![image](https://github.com/user-attachments/assets/02db8a7d-0a82-4088-934f-dca1c198ff01)
+### Trial phases breakdown
 ![image](https://github.com/user-attachments/assets/7deb655f-7fa6-4766-8a6c-ff2cc93fa50f)
+### Most common conditions frequency breakdown
 ![image](https://github.com/user-attachments/assets/5493f463-54ff-41a4-9c4d-ed1a3e8ccde5)
+### Enrollment over time plot
 ![image](https://github.com/user-attachments/assets/52a52be6-7668-4101-ac4a-5e0e5e358abb)
 
 
